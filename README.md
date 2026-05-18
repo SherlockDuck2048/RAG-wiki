@@ -7,6 +7,9 @@
 
 Inspired by [Andrej Karpathy's llm-wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) and the community's work building on it.
 
+<img width="2148" height="1301" alt="image" src="https://github.com/user-attachments/assets/2059f371-a8f0-493d-9256-4a6e11c32799" />
+
+
 ## What this is
 
 Instead of RAG (re-retrieving raw docs on every query), this pattern has the LLM **compile** raw sources into a persistent, cross-linked Markdown wiki. Every `compile`, `ingest`, `query`, `lint`, and `audit` pass makes the wiki richer. Knowledge compounds over time.
