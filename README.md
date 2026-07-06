@@ -7,6 +7,8 @@
 
 Inspired by [Andrej Karpathy's llm-wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) and the community's work building on it.
 
+<img width="2094" height="1251" alt="image" src="https://github.com/user-attachments/assets/1fc75bf2-aa8f-4877-b34f-bf50339c0f76" />
+
 <img width="2148" height="1301" alt="image" src="https://github.com/user-attachments/assets/2059f371-a8f0-493d-9256-4a6e11c32799" />
 
 
